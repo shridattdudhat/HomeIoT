@@ -13,7 +13,7 @@
 
 #include "blynk.h"
 
-char auth[] = "55eff345a94e4b27afc68b11b99ca245";
+char auth[] = "Your auth token";
 //long rssi = WiFi.RSSI();
 
 #define ONE_DAY_MILLIS (24 * 60 * 60 * 1000)
